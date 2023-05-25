@@ -52,7 +52,7 @@ export function generateNftMetadata(): NftMetadata {
   const newNft: NftMetadata = {
     name: 'Ocean Data NFT',
     symbol: 'OCEAN-NFT',
-    description: `This NFT represents a Solar Data asset in the SunDAO Market, Built on OCEAN Protocol v4.`,
+    description: `This NFT represents a Solar Data asset in the SunDAO Market, via OCEAN Protocol v4.`,
     external_url: 'https://market.oceanprotocol.com',
     background_color: '141414', // dark background
     image_data: imageData

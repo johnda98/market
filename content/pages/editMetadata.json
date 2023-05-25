@@ -168,7 +168,7 @@
       {
         "name": "author",
         "label": "New Author",
-        "placeholder": "e.g. Mrs McJellyfish",
+        "placeholder": "e.g. Desert Sunlight - Joshua Tree - build1",
         "help": "Give proper attribution for your dataset.",
         "required": false
       },
