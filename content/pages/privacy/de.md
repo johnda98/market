@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-description: Diese Datenschutzerklärung erläutert wie Ocean Protocol Foundation Ltd. (OPF) deine personenbezogenen Daten verarbeitet wenn du SunDAO Solar Asset Data Market besuchst und wenn du eine unserer SunDAO Solar Asset Data Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
+description: Diese Datenschutzerklärung erläutert wie Ocean Protocol Foundation Ltd. (OPF) deine personenbezogenen Daten verarbeitet wenn du SunDAO Solar Data Asset Market besuchst und wenn du eine unserer SunDAO Solar Asset Data Market Funktionen nutzt. Darüberhinaus informiert dich diese Datenschutzerklärung über deine Rechte.
 ---
 
 # 1. Verantwortlicher
@@ -32,16 +32,16 @@ Detaillierte Informationen über unsere Verarbeitungsvorgänge, die Rechtmäßig
 
 # 3. Empfänger und Übermittlung von personenbezogenen Daten an Drittländer
 
-**Visiting SunDAO Solar Asset Data Market**
+**Visiting SunDAO Solar Data Asset Market**
 
 Wenn du SunDAO Solar Asset Data Market besuchst, wird deine IP-Adresse von Netlify verarbeitet, ein Auftragsverarbeiter, der unseren Markt hostet. SunDAO Solar Asset Data Market wird von Netlify über ein Content Delivery Network (ein geografisch verteiltes Netzwerk) bereitgestellt, deren Server sich innerhalb und außerhalb des Europäischen Wirtschaftsraums befinden. Wir verwenden Standardvertragsklauseln (SCC), um angemessene Schutzmaßnahmen für die Verarbeitung deiner personenbezogenen Daten zu gewährleisten. Du hast das Recht, eine Kopie dieser SCC zu erhalten.
 
 - Hier findest du Netlify&#39;s [**SCC** &#8599;](https://www.netlify.com/v3/static/pdf/netlify-dpa.pdf).
 - Hier findest du Netlify&#39;s [**Datenschutzerklärung** &#8599;](https://www.netlify.com/gdpr-ccpa).
 
-**Nutzung von SunDAO Solar Asset Data Market Funktionalitäten**
+**Nutzung von SunDAO Solar Data Asset Market Funktionalitäten**
 
-Wenn du SunDAO Solar Asset Data Market Funktionalitäten nutzt, legen wir deine Wallet Addresse und deinen Autornamen (falls vorhanden) offen indem wir diese an einen Smart Contract übermitteln. Dieser Smart Contract wird in maschinenlesbarem Format auf einer öffentlichen Blockchain gespeichert, die redundant auf weltweit verteilten Knoten gespeichert ist. Aufgrund der weltweit verteilten Speicherung werden deine Wallet Adresse und gegebenenfalls dein Autorname in Ländern ohne Angemessenheitsbeschluss gemäß Art. 45 GDPR verarbeitet. Die der Blockchain zugrunde liegende Technologie gewährleistet die Sicherheit (Integrität, Verfügbarkeit, Authentizität und Nichtabstreitbarkeit) deiner personenbezogenen Daten by-design und by-default. Außerdem bleiben deine in Kapitel sieben beschriebenen Rechte durchsetzbar. Wenn du beispielsweise deinen Autornamen auf SunDAO Solar Asset Data Market berichtigst, werden die Änderungen automatisch auch auf Knoten übernommen, die eine Kopie des Smart Contracts besitzen.
+Wenn du SunDAO Solar Data Asset Market Funktionalitäten nutzt, legen wir deine Wallet Addresse und deinen Autornamen (falls vorhanden) offen indem wir diese an einen Smart Contract übermitteln. Dieser Smart Contract wird in maschinenlesbarem Format auf einer öffentlichen Blockchain gespeichert, die redundant auf weltweit verteilten Knoten gespeichert ist. Aufgrund der weltweit verteilten Speicherung werden deine Wallet Adresse und gegebenenfalls dein Autorname in Ländern ohne Angemessenheitsbeschluss gemäß Art. 45 GDPR verarbeitet. Die der Blockchain zugrunde liegende Technologie gewährleistet die Sicherheit (Integrität, Verfügbarkeit, Authentizität und Nichtabstreitbarkeit) deiner personenbezogenen Daten by-design und by-default. Außerdem bleiben deine in Kapitel sieben beschriebenen Rechte durchsetzbar. Wenn du beispielsweise deinen Autornamen auf SunDAO Solar Asset Data Market berichtigst, werden die Änderungen automatisch auch auf Knoten übernommen, die eine Kopie des Smart Contracts besitzen.
 
 **Kontakt via E-mail**
 

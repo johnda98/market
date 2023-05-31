@@ -1,6 +1,6 @@
 {
-  "siteTitle": "SunDAO Solar Asset Data Market",
-  "siteTagline": "A marketplace to find, publish and trade data assets in the SunDAO Network.",
+  "siteTitle": "SunDAO Solar Dataset Asset Market",
+  "siteTagline": "A marketplace to find, publish and trade Dataset assets in the SunDAO Network.",
   "siteUrl": "https://market.oceanprotocol.com",
   "siteImage": "/share.png",
   "copyright": "All Rights Reserved. Powered by ",
@@ -14,7 +14,7 @@
       "link": "/profile"
     }
   ],
-  "announcement": "Welcome to SunDAO - Your focal point for Solar Insurance, Hardware-Parts/Spares, Data Asset Marketplace, Artificial Intelligence for Solar Asset Operations, Get Help - Industry Talent/ Bounty posting and Subcontract Services.",
+  "announcement": "Welcome to SunDAO - Your focal point for Solar Insurance, Hardware-Parts/Spares, Data Asset Marketplace, Artificial Intelligence for Solar Asset Operations, Get Help - Industry Talent Bounty posting and Subcontract Services.",
   "warning": {
     "ctd": "Please note that Compute-to-Data is still in alpha phase."
   }

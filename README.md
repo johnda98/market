@@ -1,4 +1,4 @@
-<h1 align="center">SunDAO Solar Data Market</h1>
+<h1 align="center">SunDAO Solar Data Asset Market</h1>
 
 [![Build Status](https://github.com/oceanprotocol/market/workflows/CI/badge.svg)](https://github.com/oceanprotocol/market/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c85f4d8b-95e1-4010-95a4-2bacd8b90981/deploy-status)](https://app.netlify.com/sites/market-oceanprotocol/deploys)
