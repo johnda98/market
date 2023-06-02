@@ -95,6 +95,15 @@ export default function Stats({
           />
         }
       />
+
+      <Button
+        name="Are you verified by Veriff ?"
+        className={styles.link}
+        style="text"
+        href="https://www.veriff.com/use-cases/customer-identity-access-management"
+      >
+        Lock OCEAN
+      </Button>
     </div>
   )
 }
