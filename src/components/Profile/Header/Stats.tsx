@@ -95,14 +95,12 @@ export default function Stats({
           />
         }
       />
-
       <Button
-        name="Are you verified by Veriff ?"
         className={styles.link}
         style="text"
-        href="https://www.veriff.com/use-cases/customer-identity-access-management"
+        href="https://www.veriff.com/"
       >
-        Lock OCEAN
+        Are you verified ?
       </Button>
     </div>
   )

@@ -27,16 +27,16 @@ function getTabs(
 ): HistoryTab[] {
   const defaultTabs: HistoryTab[] = [
     {
-      title: 'Published',
+      title: 'Your Published Datasets',
       content: <PublishedList accountId={accountId} />
     },
     {
-      title: 'Downloads',
+      title: 'Your Downloads',
       content: <Downloads accountId={accountId} />
     }
   ]
   const computeTab: HistoryTab = {
-    title: 'Compute Jobs',
+    title: 'Tour Compute Jobs',
     content: (
       <ComputeJobs
         jobs={jobs}
